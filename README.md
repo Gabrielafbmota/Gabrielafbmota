@@ -1,12 +1,14 @@
-# Gabriela de Fátima Barboza da Mota
+# 👩‍💻 Gabriela Mota — FullStack Developer
 
-Brasileira • Casada • 31 anos  
-📍 Estrada das Nações, 395, apto 16C — Vila Iracema, Barueri/SP  
-📞 (11) 96192-6242  
-📧 gabrielamota.unicamp@gmail.com  
+**Backend • Frontend • Cloud AWS • Serverless • Open to work 🚀**
 
-## Objetivo
-Desenvolvedora FullStack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielamota.unicamp@gmail.com)
+
+---
+
+<details>
+<summary>🇧🇷 <strong>Currículo em Português</strong></summary>
 
 ## Resumo Profissional
 
@@ -29,7 +31,7 @@ Fev/2016 – Jul/2017
 
 **Itaú Unibanco**  
 *Analista de Engenharia de TI Plena*  
-Jul/2024 – Atual  
+Jul/2024 – Atual
 
 - Desenvolvimento de APIs e serviços em Python  
 - Integrações entre serviços internos e sistemas legados (Java)  
@@ -38,7 +40,7 @@ Jul/2024 – Atual
 
 **ST IT Data**  
 *Líder Técnica*  
-Jun/2023 – Jul/2024  
+Jun/2023 – Jul/2024
 
 - Desenvolvimento de APIs com Node.js e Typescript  
 - Integrações com clientes e parceiros  
@@ -49,13 +51,13 @@ Jun/2023 – Jul/2024
 - Desenvolvimento frontend com Next.js e React  
 
 *Desenvolvedora Plena*  
-Mai/2022 – Mai/2023  
+Mai/2022 – Mai/2023
 
 - Desenvolvimento de APIs com Node.js e Typescript  
 - Integração de sistemas e uso de serviços AWS  
 
 *Desenvolvedora Júnior*  
-Nov/2020 – Mai/2022  
+Nov/2020 – Mai/2022
 
 - Desenvolvimento e manutenção de portais em SharePoint  
 - Desenvolvimento de APIs em Node.js e websites em React  
@@ -76,18 +78,12 @@ Nov/2020 – Mai/2022
 - Fisk (2 anos)  
 - What If? School (nível intermediário)  
 
+</details>
 
 ---
 
-# Gabriela de Fátima Barboza da Mota
-
-Brazilian • Married • 31 years old  
-📍 Estrada das Nações, 395, apto 16C — Vila Iracema, Barueri/SP, Brazil  
-📞 +55 (11) 96192-6242  
-📧 gabrielamota.unicamp@gmail.com  
-
-## Objective
-FullStack Developer
+<details>
+<summary>🇺🇸 <strong>Resume in English</strong></summary>
 
 ## Professional Summary
 
@@ -109,7 +105,7 @@ Feb/2016 – Jul/2017
 
 **Itaú Unibanco**  
 *Mid-level IT Engineer Analyst*  
-Jul/2024 – Present  
+Jul/2024 – Present
 
 - Develop APIs and backend services in Python  
 - Integrate internal services and legacy systems (Java)  
@@ -118,7 +114,7 @@ Jul/2024 – Present
 
 **ST IT Data**  
 *Technical Lead*  
-Jun/2023 – Jul/2024  
+Jun/2023 – Jul/2024
 
 - Develop APIs using Node.js and Typescript  
 - Implement system integrations with clients and partners  
@@ -129,13 +125,13 @@ Jun/2023 – Jul/2024
 - Develop frontend applications with Next.js and React  
 
 *Mid-level Developer*  
-May/2022 – May/2023  
+May/2022 – May/2023
 
 - Develop APIs using Node.js and Typescript  
 - Integrate systems and utilize AWS services  
 
 *Junior Developer*  
-Nov/2020 – May/2022  
+Nov/2020 – May/2022
 
 - Maintain and update corporate SharePoint portals  
 - Develop APIs using Node.js and websites with React  
@@ -155,3 +151,5 @@ Nov/2020 – May/2022
 **English:** Intermediate (currently improving)  
 - Fisk (2 years)  
 - What If? School (Intermediate level)  
+
+</details>
